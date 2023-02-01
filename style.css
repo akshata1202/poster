@@ -42,6 +42,12 @@ body {
   box-shadow: inset -2px 2px 0 #777;
 }
 
+.img {
+  
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .ground {
   position: absolute;
   top: 450px;
@@ -62,7 +68,7 @@ body {
 }
 
 .sutta {
-  margin: 90px;
+  margin: 60px;
   width: 90px;
   font-size: 30px;
   line-height: 20px;
